@@ -1,0 +1,9 @@
+.venv
+.idea
+
+dist
+src/pokenux.egg-info
+
+pkg
+*.zst
+*.pkg
